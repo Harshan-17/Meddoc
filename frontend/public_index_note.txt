@@ -1,0 +1,1 @@
+Create React App expects public/index.html. Added by script below if needed.
